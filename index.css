@@ -1,0 +1,9 @@
+.header {
+    background-image: linear-gradient(#F4DAE2, #EED5DC, #EED1D8);
+}
+
+.subject {
+    text-align: right;
+    font-size: larger;
+    margin-right: 35rem;
+}
